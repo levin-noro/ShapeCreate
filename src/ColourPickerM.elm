@@ -21,7 +21,7 @@ type alias State = { h:Float -- hue
                    , cx:Float -- selectorCircle x pos
                    , cy:Float -- selectorCircle y pos
                    }
-
+ 
 init : State
 init = { h = 0, s = 0, l = 0.5, sx = 0, sy = 0, cx = 0, cy = 0}--, counter = 0, timeLimit = 10}
 --       , task = Incomplete}
