@@ -15,7 +15,7 @@ import Transformer exposing (..)
 --type alias State = 
 --        { -- Dimensions
 --          width : Int, height : Int
---        -- ShapeCreate
+--        -- ShapeCreate 
 --        , pickFilled : Bool, pickOutlined : Bool, filledRed : Bool, filledGreen : Bool
 --        , filledBlue : Bool, filledCustom : Bool, outlinedSolid : Bool
 --        , outlinedDashed : Bool, outlinedDotted : Bool, outlinedBlack : Bool
