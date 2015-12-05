@@ -21,7 +21,7 @@ import Transformer exposing (..)
 import ColourPickerM exposing (..)
 import TimeOut exposing (..)
 --import QuizMode exposing (..)
-
+ 
 ------------------------------------------------------------------------------------------------
 {--MODEL--}
 
