@@ -3,4 +3,4 @@ Educational app built using Elm that helps beginners create different shapes, an
 
 To try the app, click here -> http://www.cas.mcmaster.ca/~anand/ShapeCreate2.html
 
-![My image](http://levin-noro.github.io/images/ShapeCreate.PNG)
+![My image](http://levin-noro.github.io/images/ShapeCreate.PNG =775x553)
